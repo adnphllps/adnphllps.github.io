@@ -546,7 +546,7 @@ body {
   }
 }
 #header {
-  max-width: 710px;
+  max-width: 810px;
   width: 100%;
   margin: 0 auto 0.5rem auto;
 }
@@ -620,8 +620,8 @@ body {
   margin-right: 0;
 }
 #header:hover #logo {
-  -webkit-filter: none;
-  filter: none;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
 }
 @media screen and (max-width: 50rem) {
   #header #title {
