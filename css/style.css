@@ -572,10 +572,10 @@ body {
   display: inline-block;
   float: left;
   margin-right: 20px;
-  width: 128px;
-  height: 128px;
+  width: 100px;
+  height: 100px;
   background-repeat: no-repeat;
-  background-size: 128px 128px;
+  background-size: 100px 100px;
   border-radius: 5px;
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
@@ -625,8 +625,8 @@ body {
 }
 @media screen and (max-width: 480px) {
   #header #title {
-    padding-top: 48px;
-    padding-bottom: 48px;
+    padding-top: 34px;
+    padding-bottom: 34px;
   }
   #header #nav ul a:hover {
     background: none;
@@ -646,7 +646,7 @@ body {
   }
   #header #nav li:not(:first-child) {
     padding-top: 1rem;
-    padding-left: 148px;
+    padding-left: 120px;
     font-size: 1rem;
   }
 }
