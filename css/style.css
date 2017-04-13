@@ -623,7 +623,7 @@ body {
   -webkit-filter: none;
   filter: none;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 50rem) {
   #header #title {
     padding-top: 34px;
     padding-bottom: 34px;
