@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/adonphillips
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adonphillips.com
+  * I am adonphillips (https://keybase.io/adonphillips) on keybase.
+  * I have a public key ASAmh7CixNsAOpf_LaZYt1w-OfxBdN-6L8fax17sAe-3Jgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01202687b0a2c4db003a97ff2da658b75c3e39fc4174dfba2fc7dac75eec01efb7260a",
+            "host": "keybase.io",
+            "kid": "01202687b0a2c4db003a97ff2da658b75c3e39fc4174dfba2fc7dac75eec01efb7260a",
+            "uid": "9f8e446e183c0406d22a09ce110a4c19",
+            "username": "adonphillips"
+        },
+        "service": {
+            "hostname": "adonphillips.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1492201322,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1492201306,
+        "hash": "60bdfa2c32dc4b3ec2283fa9721259b29d8d23267d355cc858f30593b022c9ac388680e22a00bd7132877bb99173d1de3100b51ade46dd404f316f576fc0c516",
+        "seqno": 1019893
+    },
+    "prev": "4ef52e3c9bc529d51bf2409634516b16ae3b5d40a0e4cb0417de8074ff7a342b",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJoewosTbADqX/y2mWLdcPjn8QXTfui/H2sde7AHvtyYKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjY4N2IwYTJjNGRiMDAzYTk3ZmYyZGE2NThiNzVjM2UzOWZjNDE3NGRmYmEyZmM3ZGFjNzVlZWMwMWVmYjcyNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjY4N2IwYTJjNGRiMDAzYTk3ZmYyZGE2NThiNzVjM2UzOWZjNDE3NGRmYmEyZmM3ZGFjNzVlZWMwMWVmYjcyNjBhIiwidWlkIjoiOWY4ZTQ0NmUxODNjMDQwNmQyMmEwOWNlMTEwYTRjMTkiLCJ1c2VybmFtZSI6ImFkb25waGlsbGlwcyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYWRvbnBoaWxsaXBzLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIxIn0sImN0aW1lIjoxNDkyMjAxMzIyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTIyMDEzMDYsImhhc2giOiI2MGJkZmEyYzMyZGM0YjNlYzIyODNmYTk3MjEyNTliMjlkOGQyMzI2N2QzNTVjYzg1OGYzMDU5M2IwMjJjOWFjMzg4NjgwZTIyYTAwYmQ3MTMyODc3YmI5OTE3M2QxZGUzMTAwYjUxYWRlNDZkZDQwNGYzMTZmNTc2ZmMwYzUxNiIsInNlcW5vIjoxMDE5ODkzfSwicHJldiI6IjRlZjUyZTNjOWJjNTI5ZDUxYmYyNDA5NjM0NTE2YjE2YWUzYjVkNDBhMGU0Y2IwNDE3ZGU4MDc0ZmY3YTM0MmIiLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxECMCgJmVWxMz+nwuRQXuGaJ/rj9thUynep5/GfHT+HI1R2XbQTGs+piLTL7NQsQFfNec6C+/aeGv9Vah1MJLdQAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg9fwo8V0oFFVJT8sYT41tSdU5wp6k5YzDJ+x87DGYZ2+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adonphillips
+
+==================================================================
