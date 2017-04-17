@@ -990,7 +990,7 @@ body {
   display: inline-block;
 }
 #sociallinks li:after {
-  content: ", ";
+  content: " ";
 }
 #sociallinks li:last-child:after {
   content: "";
