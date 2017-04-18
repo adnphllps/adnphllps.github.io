@@ -515,6 +515,11 @@ body {
 }
 .content h6 {
   text-decoration: none;
+  color: inherit;
+  font-size: 14px;
+  font-family: "Menlo", "Meslo LG", monospace;
+  font-weight: 400;
+  line-height: 1.725;
 }
 @media (min-width: 540px) {
   .image-wrap {
