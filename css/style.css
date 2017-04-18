@@ -513,6 +513,9 @@ body {
   background-size: 100% 6px;
   background-image: linear-gradient(transparent, transparent 6px, #6796b4 6px, #6796b4);
 }
+.content h6 {
+  text-decoration: none;
+}
 @media (min-width: 540px) {
   .image-wrap {
     flex-direction: row;
